@@ -34,6 +34,10 @@ p, footer{
   line-height: 28px;
 }
 
+a {
+  text-decoration: none;
+}
+
 #footer a + a{
   margin-left: 28px;
 }
@@ -43,6 +47,11 @@ p, footer{
   height: 0px;
   margin: 0 auto 8px;
   border: 1px solid #ECEFF2;
+}
+
+
+footer {
+  margin-bottom: 10px;
 }
 
 #balls {
